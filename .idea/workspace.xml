@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e9ba406-a82c-4e5b-8190-58be8efd55dc" name="Changes" comment="" />
+    <list default="true" id="4e9ba406-a82c-4e5b-8190-58be8efd55dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Repetiçao2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repetiçao9.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selecao9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +35,24 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../sdk/go1.20.3" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../Go" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N8m9WEn2jH7RT8udcnHYEw5RvL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,21 +66,39 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/jose.waldo/repos/algoritmos-em-golang-josewaldoneto",
+    "last_opened_file_path": "E:/Repos/algoritmos-em-golang-josewaldoneto",
     "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "go.sdk"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build Sequenciais10.go">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <component name="RunManager" selected="Go Build.go build Selecao1.go">
+    <configuration name="go build Repetiçao10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Repetiçao10.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Repetiçao1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-josewaldoneto" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Repetiçao1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Selecao1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-josewaldoneto" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Selecao1.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build Sequenciais10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -63,55 +109,21 @@
       <filePath value="$PROJECT_DIR$/Sequenciais10.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Sequenciais6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Sequenciais1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Sequenciais6.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Sequenciais7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-josewaldoneto" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Sequenciais7.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Sequenciais8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-josewaldoneto" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Sequenciais8.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Sequenciais9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-josewaldoneto" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Sequenciais9.go" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="algoritmos-em-golang-josewaldoneto" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
+      <filePath value="$PROJECT_DIR$/Sequenciais1.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Selecao1.go" />
+        <item itemvalue="Go Build.go build Repetiçao10.go" />
+        <item itemvalue="Go Build.go build Repetiçao1.go" />
+        <item itemvalue="Go Build.go build Sequenciais1.go" />
         <item itemvalue="Go Build.go build Sequenciais10.go" />
-        <item itemvalue="Go Build.go build Sequenciais9.go" />
-        <item itemvalue="Go Build.go build Sequenciais8.go" />
-        <item itemvalue="Go Build.go build Sequenciais7.go" />
-        <item itemvalue="Go Build.go build Sequenciais6.go" />
       </list>
     </recent_temporary>
   </component>
